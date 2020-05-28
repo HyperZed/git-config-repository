@@ -1,7 +1,7 @@
 #ApplicationConfig
 application:
   listino: 1
-  sconto: 0
+  sconto: 5
 
 # ==========================================
 # = Actuator info
