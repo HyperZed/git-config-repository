@@ -1,0 +1,14 @@
+#ApplicationConfig
+application:
+  listino: 1
+  sconto: 0
+
+# ==========================================
+# = Actuator info
+#===========================================
+info:
+  assistenza:
+    nome: "Nicola la rocaca"
+  nome:
+    nome-app: "PriceArt Web Service - versione JWT"
+  profilo: "Standard con sconto"
