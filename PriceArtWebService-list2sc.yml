@@ -8,7 +8,7 @@ application:
 #===========================================
 info:
   assistenza:
-    nome: "Nicola la rocaca"
+    nome: "Nicola la rocca"
   nome:
     nome-app: "PriceArt Web Service - versione JWT"
   profilo: "List 2 con sconto"
